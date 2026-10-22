@@ -1,4 +1,4 @@
-# BloomFusionDB
+# BloomFusion
 
 A resume-level learning project implementing a custom key-value database
 that combines two advanced data structures:
